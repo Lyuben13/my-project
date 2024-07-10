@@ -58,5 +58,6 @@ def main() -> None:
         print(template.format(index=index, result=fibonacci(index)))
 
 print("Hello World")
+print("Commit")
 if __name__ == '__main__':
     main()
