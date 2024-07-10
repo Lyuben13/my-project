@@ -57,6 +57,6 @@ def main() -> None:
         template = 'fibonacci({index}) = {result}'
         print(template.format(index=index, result=fibonacci(index)))
 
-
+print("Hello World")
 if __name__ == '__main__':
     main()
