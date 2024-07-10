@@ -1,9 +1,5 @@
 .gitignore
 .exe
+.py
 .tmp
 .obj
-/venv/
-.idea
-bonus
-.txt
-
