@@ -1,0 +1,9 @@
+.gitignore
+.exe
+.tmp
+.obj
+/venv/
+.idea
+bonus
+.txt
+
