@@ -1,4 +1,5 @@
 .gitignore
+.idea
 .exe
 .tmp
 .obj
